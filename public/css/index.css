@@ -1,0 +1,15 @@
+html {
+  font-family: sans-serif;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+}
+h1{
+  color: red;
+}
+.bac{
+  background-color: black;
+  height: 10%;
+}
+body{
+  background-color: silver;
+}
